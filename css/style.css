@@ -1,0 +1,25 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif !important;
+  padding-top: 70px;
+}
+
+#main-navbar {
+  font-size: 25px !important;
+}
+
+#vg-img {
+  width: 210px;
+}
+
+#about {
+  background-color: #2b3e50;
+}
+
+.contact-icon {
+  font-size: 50px;
+  text-decoration: none !important;
+}
+
+.contact-icon:hover {
+  color: white;
+}

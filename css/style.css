@@ -18,8 +18,13 @@ body {
 .contact-icon {
   font-size: 50px;
   text-decoration: none !important;
+  color: #ea7424 !important;
 }
 
 .contact-icon:hover {
   color: white;
+}
+
+.section-title {
+  color: #ea7424 !important;
 }

@@ -1,17 +1,17 @@
 $(document).ready(function (){
-  
+
   $("#about-link").click(function (){
     scrollTo($('#about'));
   });
-  
+
   $("#port-link").click(function (){
     scrollTo($('#hr-portfolio'));
   });
-  
+
   $("#contact-link").click(function (){
     scrollTo($('#hr-contact'));
   });
-  
+
 });
 
 function scrollTo(element){
